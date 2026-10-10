@@ -1,0 +1,11 @@
+.env
+.venv
+.git
+.github
+__pycache__
+*.pyc
+.pytest_cache
+data/session_*
+faiss_index
+logs
+notebook
